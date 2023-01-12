@@ -1,3 +1,6 @@
-# CPP Template
+# C Primer Plus 学习笔记和代码仓库
 
-from bilibili@等疾风
+## ch01 and ch02
+
+背景和基本程序
+
